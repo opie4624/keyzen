@@ -18,6 +18,7 @@ layouts["bépo"] = " tesirunamc,èvodpléjbk'.qxghyfàzw6758493021`-=[]\\;/ABCDEFGHI
 layouts["norman"] = " ntieosaygjkufrdlw;qbpvmcxz1234567890'\",.!?:;/@$%&#*()_ABCDEFGHIJKLMNOPQRSTUVWXYZ~+-={}|^<>`[]\\";
 layouts["code-es6"] = " {}',;():.>=</_-|`!?#[]\\+\"@$%&*~^";
 layouts["keybr"] = " enitrlsauodychgmpbkvwfzxqj";
+layouts["Tipy"] = " enirmhgadotcuswlbpqxfvz,.@-+=1234567890ENIRMHGADOTCUSWLBPQXFVZ;:_*^~{}\\#(!)?'\"&/`[]|<>";
 
 $(document).ready(function() {
     load_audio();
